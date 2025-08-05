@@ -11,7 +11,11 @@ p {
 h2 {
     color: #ff0000;
 }
-
+.texto {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(151, 3, 3);
+}
 img{
     width: 10%;
     margin-left: 0%;
