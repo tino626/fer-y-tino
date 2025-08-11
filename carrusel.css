@@ -2,6 +2,7 @@ body {
     background-color: rgba(171, 146, 19, 0.4);
 }
 h1 {
+    width: 10%;
     color: rgb(125, 76, 76);
 }
 p {
@@ -10,11 +11,6 @@ p {
 }
 h2 {
     color: #ff0000;
-}
-.texto {
-    width: 10%;
-    text-align: center;
-    background-color: rgb(151, 3, 3);
 }
 img{
     width: 10%;
