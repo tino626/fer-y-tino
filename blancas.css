@@ -33,6 +33,9 @@ img{
 .nav{
     color: #ffffff;
 }
+.img{
+    width: 45%;
+}
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #ffffff;
 	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
